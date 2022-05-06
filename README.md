@@ -3,7 +3,7 @@
 
 $apt update && apt upgrade
 
-$pkg install python python2 vim figlet curl
+$pkg install python python2 vim curl
 
 $pkg install git
 
