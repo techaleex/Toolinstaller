@@ -14,7 +14,7 @@ $ pkg install git
 
 $ git clone https://github.com/techaleex/toolinstaller
 
-$ cd toolinstaller
+$ cd Toolinstaller
 
 $ chmod +x toolinstaller.sh
 
