@@ -6,19 +6,19 @@ Visit:- https://youtube.com/channel/UC1P74sfuk5OvBlNZPX7IRvA
 # Tool Installer
 300+ TOOLS IN 1
 
-$apt update && apt upgrade
+$ apt update && apt upgrade
 
-$pkg install python python2 vim curl
+$ pkg install python python2 vim curl
 
-$pkg install git
+$ pkg install git
 
-$git clone https://github.com/techaleex/toolinstaller
+$ git clone https://github.com/techaleex/toolinstaller
 
-$cd toolinstaller
+$ cd toolinstaller
 
-$chmod +x toolinstaller.sh
+$ chmod +x toolinstaller.sh
 
-$bash toolinstaller.sh
+$ bash toolinstaller.sh
 
 Tech Alex
 
